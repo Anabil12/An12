@@ -900,8 +900,8 @@ section {
   padding: 30px;
   background: #fff;
   width: 100%;
-  box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
-  border-radius: 5cap;
+  /* box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+  border-radius: 5cap; */
 }
 
 .contact .info i {
@@ -1079,7 +1079,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 20px 0;
-  background: #f9f9f9;
+  background: #ffffff;
 }
 
 .breadcrumbs h2 {
@@ -1125,7 +1125,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #f7f8f9;
+  background: #ffffff;
   color: #45505b;
   font-size: 14px;
   text-align: center;
